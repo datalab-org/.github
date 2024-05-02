@@ -1,4 +1,8 @@
-# *datalab*
+<div align="center">
+
+  # *datalab*
+  
+</div>
 
 This GitHub organisation collects the open source core of the *datalab* project:
 
