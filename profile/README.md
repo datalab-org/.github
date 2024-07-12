@@ -20,7 +20,7 @@ This GitHub organisation collects the open source core of the *datalab* project:
 with contributions and testing performed by other members of the [Grey Group](https://www.ch.cam.ac.uk/group/grey/) at the University of Cambridge.
 
 We are available for consultations on setting up and managing *datalab* deployments, as well as collaborating on or sponsoring additions of new features and techniques.
-Please contact Josh or Matthew on their academic emails, or join the [public *datalab* Slack workspace](https://join.slack.com/t/datalab-world/shared_invite/zt-2h58ev3pc-VV496~5je~QoT2TgFIwn4g).
+Please contact Josh or Matthew on their academic emails, visit [datalab industries](https://datalab.industries), or join the [public *datalab* Slack workspace](https://join.slack.com/t/datalab-world/shared_invite/zt-2h58ev3pc-VV496~5je~QoT2TgFIwn4g).
 
 ## Funding
 
