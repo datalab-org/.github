@@ -6,7 +6,7 @@
 
 This GitHub organisation collects the open source core of the *datalab* project:
 
-- [the-grey-group/datalab](https://github.com/the-grey-group/datalab): the core server and web app.
+- [datalab-org/datalab](https://github.com/datalab-org/datalab): the core server and web app.
 - [datalab-org/datalab-api](https://github.com/datalab-org/datalab-python-api): a Python API package that can be used to interact with *datalab* instances.
 - [datalab-industries/datalab-ansible-terraform](https://github.com/datalab-industries/datalab-ansible-terraform): Cloud and infrastructure automation for *datalab* instances using Terraform and Ansible.
 
