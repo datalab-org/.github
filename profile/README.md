@@ -8,6 +8,8 @@ This GitHub organisation collects the open source core of the *datalab* project:
 
 - [datalab-org/datalab](https://github.com/datalab-org/datalab): the core server and web app.
 - [datalab-org/datalab-api](https://github.com/datalab-org/datalab-python-api): a Python API package that can be used to interact with *datalab* instances.
+- [datalab-org/datalab-federation](https://github.com/datalab-org/datalab-federation): an opt-in list of federated *datalab* deployments.
+- [datalab-org/datalab-purl](https://github.com/datalab-org/datalab-purl): a persistent link resolver for the *datalab* federation.
 - [datalab-industries/datalab-ansible-terraform](https://github.com/datalab-industries/datalab-ansible-terraform): Cloud and infrastructure automation for *datalab* instances using Terraform and Ansible.
 
 ## About
